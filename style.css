@@ -1,5 +1,5 @@
 body {
-	background: #FFFFFF;
+	background: #FFDAB9;
 	color: #001f3f;
 	text-align:center;
 	font-family:Helvetica;
@@ -30,7 +30,7 @@ footer {
 .topnav{
 	position:fixed;
 	top:0;
-	background-color: #29246d;
+	background-color: #DDDDDD;
 }
 
 .topnav a {
