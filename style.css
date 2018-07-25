@@ -2,7 +2,7 @@ body {
 	background: #FFFFFF;
 	color: #001f3f;
 	text-align:center;
-	font-family:Helvetica;
+	font-family:Calibri;
 	font-size:24px;
 }
 
@@ -44,6 +44,6 @@ footer {
 }
 
 .topnav a:hover {
-	background-color: #001f3f;
+	background-color: #B22222;
 	color: #FFFFFF;
 }
