@@ -1,5 +1,5 @@
 body {
-	background: #FFDAB9;
+	background: #FFFFFF;
 	color: #001f3f;
 	text-align:center;
 	font-family:Helvetica;
@@ -30,7 +30,7 @@ footer {
 .topnav{
 	position:fixed;
 	top:0;
-	background-color: #DDDDDD;
+	background-color: #000000;
 }
 
 .topnav a {
@@ -45,5 +45,5 @@ footer {
 
 .topnav a:hover {
 	background-color: #001f3f;
-	color: #DDDDDD;
+	color: #FFFFFF;
 }
